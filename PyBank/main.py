@@ -54,3 +54,5 @@ with open(output, "w") as txt_file:
     )
 
     txt_file.write(budget)
+
+print(budget)
